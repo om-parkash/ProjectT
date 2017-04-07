@@ -5,6 +5,7 @@
 	<artifactId>ProjectT</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ProjectT</name>
+	<packaging>war</packaging>
 	<dependencies>
 		<dependency>
 			<groupId>com.nagarro.nagp</groupId>
