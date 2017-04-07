@@ -1,0 +1,32 @@
+a {
+	text-decoration: underline;
+	color: #383838;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+body {
+	font-size: 12pt;
+	line-height: 1.8em;
+	font-family: Arial, sans-serif;
+	color: #656565;
+}
+
+#loginform {
+	border: 1px solid black;
+	width: 400px;
+	height: 300px;
+	postion: relative;
+	margin-left: 400px;
+}
+
+.logo_image {
+	height: 30px;
+}
+
+p {
+	color: blue;
+	text-align: center;
+}
